@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633636087546",
+    "project_id": "journy-e265a",
+    "storage_bucket": "journy-e265a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633636087546:android:376d01dbb8dae14dd04b43",
+        "android_client_info": {
+          "package_name": "com.example.firebase_journy_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633636087546-dpm8dbfskqvvd99pi6ofae1s96fj8cjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGDdIQpsOn03eraPa0tb3TCi9dWslMCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633636087546-dpm8dbfskqvvd99pi6ofae1s96fj8cjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
